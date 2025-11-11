@@ -1,0 +1,96 @@
+<root>
+    <resheader name="resmimetype">
+        <value>text/microsoft-resx</value>
+    </resheader>
+    <resheader name="version">
+        <value>1.3</value>
+    </resheader>
+    <resheader name="reader">
+        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <resheader name="writer">
+        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+    </resheader>
+    <data name="WelcomeText" xml:space="preserve">
+        <value>Добро пожаловать, выберите язык
+Welcome, select language</value>
+    </data>
+    <data name="WelcomeTextDialogName" xml:space="preserve">
+        <value>Select language</value>
+    </data>
+    <data name="Continue" xml:space="preserve">
+        <value>Continue</value>
+    </data>
+    <data name="CurrentLanguage" xml:space="preserve">
+        <value>Current language English</value>
+    </data>
+    <data name="Licence" xml:space="preserve">
+        <value>License Agreement for Recloud® Gml.Launcher
+IMPORTANT! READ CAREFULLY: THIS IS A LEGAL AGREEMENT. BY DOWNLOADING, INSTALLING, COPYING, SAVING ON YOUR COMPUTER, OR OTHERWISE USING THIS SOFTWARE, YOU (THE LICENSEE, AS DEFINED BELOW) BECOME A PARTY TO THIS AGREEMENT AND AGREE TO COMPLY WITH ALL THE TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO NOT AGREE WITH THE TERMS AND CONDITIONS OF THIS AGREEMENT, YOU SHOULD NOT DOWNLOAD, INSTALL, OR USE THE SOFTWARE.
+Note: In the event that the terms of this Agreement conflict with the terms of any individually negotiated agreement between Recloud and the customer, the terms of the latter shall prevail.
+1. PARTIES
+(a) "Licensor" means LLC "Recloud", registered at: 163045, Arkhangelsk Region, Arkhangelsk, Talazhskoe Highway, 9, office 6, OGRN: 1242900005083, INN/KPP: 2901318875/290101001.
+(b) "Licensee" means the individual or legal entity exercising rights under the terms of this Agreement. For legal entities, "Licensee" includes any entity that controls, is controlled by, or is under common control with the Licensee. For the purposes of this definition, "control" means (a) the right, directly or indirectly, to direct or manage such entity, whether by contract or otherwise, or (b) ownership of fifty percent (50%) or more of the outstanding shares or beneficial ownership of such entity.
+2. DEFINITIONS
+(a) "Game Profiles and Software Build Agent" means the auxiliary part of the Software that performs functions requested by the Server, as specified in the Software documentation.
+(b) "Build Agent License" means a license to use the Build Agent in accordance with this Agreement.
+(c) "License Certificate" means proof of license provided by the Licensor to the Licensee in electronic or printed form.
+(d) "License Key" means a unique code key that allows the Licensee to run the Software. Only the Licensor and/or its representatives have the right to generate License Keys for the Software.
+(e) "Server" means the server part of the Software that provides administration of User accounts and performs other services, as specified in the Software documentation.
+(f) "Software" means the program in binary form, including its documentation, updates provided under this Agreement, and any third-party programs owned and licensed by parties other than the Licensor, which are either integrated into or part of the product (collectively, "Third-Party Software").
+(g) "User" means (i) if the Licensee is an individual, solely the Licensee; (ii) if the Licensee is a legal entity, any person authorized by the Licensee to use the Software in the performance of their duties or assignments for the Licensee, including employees, independent contractors, temporary workers, and any third parties.
+3. OWNERSHIP
+(a) The Software is owned by the Licensor or its suppliers. The Software is licensed, not sold. Title and copyrights in and to the Software, in whole and in part, and all copies thereof, as well as all modifications, enhancements, derivatives, and other changes to the Software, regardless of who made any modifications, if any, are and shall remain the exclusive property of the Licensor and its suppliers.
+(b) The Software is protected by the copyright laws of the Russian Federation and the provisions of international treaties. Furthermore, the structure, organization, and code embodied in the Software are valuable and confidential trade secrets of the Licensor and its suppliers and are protected by intellectual property laws and international treaties. The Licensee agrees to comply with copyright laws and all other applicable laws of the Russian Federation.
+4. GRANT OF LICENSE
+Subject to the terms, conditions, and restrictions set forth in this Agreement, including any amendments thereto, the Licensor hereby grants the Licensee a non-exclusive, non-transferable license to use the Software as follows:
+(a) The Licensee may:
+(i) create and use an unlimited number of game profiles and build agents on their servers;
+(ii) create and use an unlimited number of User accounts;
+(iii) make backup copies of the Software for archival purposes.
+(b) The Licensee may not:
+(i) sell, distribute, encumber, give away, lend, lease, sublicense, or otherwise transfer the Software or any part thereof to anyone without the prior written consent of the Licensor;
+(ii) reverse engineer, decompile, disassemble, modify, translate, attempt to discover the source code of the Software, or create derivative works based on the Software;
+(iii) use the same License Key to run multiple instances of the Software.
+5. THIRD-PARTY SOFTWARE
+(a) The Licensee agrees to comply with the terms and conditions contained in the licenses for Third-Party Software with respect to the relevant Third-Party Software. The Licensee may review all such licenses and/or notices for Third-Party Software in the Software documentation under the section "Third-Party License Agreement."
+(b) The Licensee agrees and acknowledges that Sections 9 and 10 of this Agreement also govern the Licensee's use of Third-Party Software. The Licensor assumes no liability with respect to any Third-Party Software, and the Licensee shall seek remedies solely from the licensor(s) of the Third-Party Software. The Licensor makes no claims to Third-Party Software, which is owned exclusively by the licensor(s) of the Third-Party Software.
+(c) The Licensor provides no warranties, express or implied, including but not limited to implied warranties of merchantability, fitness for a particular purpose, title, and non-infringement, with respect to any Third-Party Software.
+6. LIMITED USE DURING EVALUATION PERIOD
+(a) Subject to the terms of this Agreement, the Licensee is granted the right to install and run the Software for evaluation purposes without any payment for a period of sixty (60) days, unless otherwise specified by the Licensor ("Evaluation Period").
+(b) The Licensee's use of the Software during the Evaluation Period shall be limited to internal evaluation for the sole purpose of determining whether the Software meets the Licensee's requirements and whether the Licensee wishes to continue using the Software.
+(c) Upon expiration of the Evaluation Period, the Licensee must either:
+(i) obtain a license for permanent use of the Software; or
+(ii) remove the Software.
+7. UPDATES
+7.1 The Licensor will provide publicly available updates to the Software to the Licensee during the term of this Agreement.
+7.2 The Licensor may cease providing updates if:
+(A) the Licensee has materially breached this Agreement and failed to remedy such breach within thirty (30) days of written notice thereof;
+(B) the Licensor is required to do so by law (e.g., if providing the Software to the Licensee is or becomes unlawful); or
+(C) the Licensor decides to discontinue providing the Software, in whole or in part.
+7.3 The Licensor will use reasonable efforts to notify the Licensee by email thirty (30) days prior to ceasing to provide updates in the cases specified in clauses 7.2(B) and 7.2(C).
+8. PURCHASE AND PAYMENT
+The Licensee agrees to the terms of purchase of the Software published on the Licensor's website at recloud.tech. The Licensee shall pay the Licensor the license fee and any other fees (if applicable) as specified in the invoice or other purchase documentation. The Licensor may charge the Licensee interest on any payment overdue by more than thirty (30) days at the rate of one and a half percent (1.5%) per month or the maximum amount permitted by law, whichever is less.
+9. LIMITED WARRANTY
+THE SOFTWARE IS PROVIDED TO THE LICENSEE "AS IS" AND WITHOUT ANY WARRANTIES. THE LICENSOR MAKES NO WARRANTIES REGARDING ITS USE OR PERFORMANCE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSOR AND ITS AFFILIATES, SUPPLIERS, AND RESELLERS DISCLAIM ALL OTHER WARRANTIES AND CONDITIONS, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT, WITH RESPECT TO THE SOFTWARE AND THE PROVISION OR FAILURE TO PROVIDE SUPPORT SERVICES.
+10. DISCLAIMER OF DAMAGES
+(A) TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, UNDER NO CIRCUMSTANCES SHALL THE LICENSOR OR ITS AFFILIATES, LICENSORS, SUPPLIERS, OR RESELLERS BE LIABLE TO THE LICENSEE UNDER ANY THEORY FOR ANY DAMAGES INCURRED BY THE LICENSEE OR ANY USER OF THE SOFTWARE, OR FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, OR SIMILAR DAMAGES (INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFIT OR CONFIDENTIAL OR OTHER INFORMATION, BUSINESS INTERRUPTION, PERSONAL INJURY, LOSS OF PRIVACY, FAILURE TO MEET ANY DUTY INCLUDING GOOD FAITH OR REASONABLE CARE, NEGLIGENCE, AND ANY OTHER PECUNIARY OR OTHER LOSSES), ARISING OUT OF THE USE OR INABILITY TO USE THE SOFTWARE, OR THE PROVISION OR FAILURE TO PROVIDE SUPPORT SERVICES, EVEN IF THE LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, AND REGARDLESS OF THE LEGAL OR EQUITABLE THEORY (CONTRACT, TORT, OR OTHERWISE) UPON WHICH THE CLAIM IS BASED.
+(B) IN ANY EVENT, THE LICENSOR'S TOTAL LIABILITY UNDER ANY PROVISION OF THIS AGREEMENT SHALL BE LIMITED TO THE AMOUNT ACTUALLY PAID BY THE LICENSEE FOR THE SOFTWARE UNDER THIS AGREEMENT.
+11. EXPORT RULES
+The Licensee agrees and accepts that the Software may be subject to the import and export laws of any country, including the laws of the European Union and the United States (in particular, the Export Administration Regulations (EAR)). The Licensee represents that it is not a citizen, national, or resident of, and is not under the control of, the governments of Cuba, Iran, North Korea, Sudan, or Syria, and is not otherwise a restricted end-user as defined by applicable export control laws. Furthermore, the Licensee represents that it will not download or otherwise export or re-export the Software or any related technical data directly or indirectly to the aforementioned countries or to citizens, nationals, or residents of those countries, or to any other restricted end-user or for any restricted end-use.
+12. TERM AND TERMINATION
+(a) Unless otherwise provided in the License Certificate, the license granted under this Agreement is perpetual.
+(b) If the Licensee fails to comply with the terms and conditions of this Agreement, the Licensor may terminate this Agreement and the Licensee's rights and licenses to use the Software. The Licensee may terminate this Agreement at any time by notifying the Licensor. Upon termination of this Agreement, the Licensee must remove the Software from its computers and archives. THE LICENSEE AGREES THAT UPON TERMINATION OF THIS AGREEMENT FOR ANY REASON, THE LICENSOR MAY TAKE ACTIONS TO PREVENT THE SOFTWARE FROM CONTINUING TO OPERATE.
+13. MARKETING
+The Licensee agrees to be identified as a customer of the Licensor and that the Licensor may refer to the Licensee by name, trade name, and trademark, if applicable, and may briefly describe the Licensee's business in the Licensor's marketing materials and on the Licensor's website. The Licensee hereby grants the Licensor a license to use the Licensee's name and any of the Licensee's trade names and trademarks solely in connection with the rights granted to the Licensor under this marketing section.
+14. GENERAL PROVISIONS
+(a) The Licensor reserves the right at any time to discontinue support for the Software and to change prices, features, specifications, capabilities, functions, licensing terms, release dates, general availability, or other characteristics of the Software.
+(b) This Agreement, including Third-Party Software agreements, constitutes the entire agreement between the parties regarding the Licensee's use of the Software and supersedes all prior or contemporaneous oral or written statements, communications, or advertising regarding the Software. No purchase order, other ordering document, or any handwritten or printed text purporting to modify or supplement the printed text of this Agreement or any schedule shall add to or vary the terms of this Agreement unless signed by both the Licensee and the Licensor.
+(c) Waiver by either party of any term or condition of this Agreement or any breach thereof in any instance shall not waive such term or condition or any subsequent breach thereof. Provisions of this Agreement that require or contemplate performance after the expiration or termination of this Agreement shall be enforceable notwithstanding such expiration or termination.
+(d) This Agreement is governed by the laws of the Russian Federation without regard to conflict of law principles. The Licensee agrees that any legal action related to this Agreement may be brought only in the courts of the Russian Federation and submits to their jurisdiction.
+(e) Headings are inserted for convenience only and shall not in any way affect the meaning or interpretation of this Agreement. If any provision of this Agreement is held invalid, the remainder of this Agreement shall remain in full force and effect. Either party—the Licensor or the Licensee—may assign this Agreement in the event of a merger or sale of substantially all of its respective assets to another entity. This Agreement is binding upon and inures to the benefit of the parties, their successors, and assigns.
+For questions regarding exceptions or amendments to this Agreement, please contact the Licensor:
+Email: support@recloud.tech
+Website: https://recloud.tech</value>
+    </data>
+</root>
