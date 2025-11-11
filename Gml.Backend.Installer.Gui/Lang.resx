@@ -31,6 +31,21 @@
         <value>current-language</value>
     </data>
     <data name="Licence" xml:space="preserve">
-        <value />
+        <value>licence</value>
+    </data>
+    <data name="NeedAgreeLicenceAgreement" xml:space="preserve">
+        <value>licence-agree</value>
+    </data>
+    <data name="Back" xml:space="preserve">
+        <value>back</value>
+    </data>
+    <data name="Agree" xml:space="preserve">
+        <value>agree</value>
+    </data>
+    <data name="ChoiceComponents" xml:space="preserve">
+        <value>choice-components</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>install</value>
     </data>
 </root>

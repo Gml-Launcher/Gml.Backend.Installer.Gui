@@ -93,4 +93,19 @@ For questions regarding exceptions or amendments to this Agreement, please conta
 Email: support@recloud.tech
 Website: https://recloud.tech</value>
     </data>
+    <data name="NeedAgreeLicenceAgreement" xml:space="preserve">
+        <value>Need agree licence agreement</value>
+    </data>
+    <data name="Back" xml:space="preserve">
+        <value>Back</value>
+    </data>
+    <data name="Agree" xml:space="preserve">
+        <value>Agree</value>
+    </data>
+    <data name="ChoiceComponents" xml:space="preserve">
+        <value>Choice components</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>Install</value>
+    </data>
 </root>

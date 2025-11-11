@@ -74,5 +74,35 @@ namespace Gml.Backend.Installer.Gui {
                 return ResourceManager.GetString("Licence", resourceCulture);
             }
         }
+        
+        internal static string NeedAgreeLicenceAgreement {
+            get {
+                return ResourceManager.GetString("NeedAgreeLicenceAgreement", resourceCulture);
+            }
+        }
+        
+        internal static string Back {
+            get {
+                return ResourceManager.GetString("Back", resourceCulture);
+            }
+        }
+        
+        internal static string Agree {
+            get {
+                return ResourceManager.GetString("Agree", resourceCulture);
+            }
+        }
+        
+        internal static string ChoiceComponents {
+            get {
+                return ResourceManager.GetString("ChoiceComponents", resourceCulture);
+            }
+        }
+        
+        internal static string Install {
+            get {
+                return ResourceManager.GetString("Install", resourceCulture);
+            }
+        }
     }
 }

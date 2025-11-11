@@ -151,4 +151,19 @@ Welcome, select language</value>
             Email: support@recloud.tech
             Веб-сайт: https://recloud.tech</value>
     </data>
+    <data name="NeedAgreeLicenceAgreement" xml:space="preserve">
+        <value>Необходимо принять лицензионное соглашение</value>
+    </data>
+    <data name="Back" xml:space="preserve">
+        <value>Назад</value>
+    </data>
+    <data name="Agree" xml:space="preserve">
+        <value>Принять</value>
+    </data>
+    <data name="ChoiceComponents" xml:space="preserve">
+        <value>Выберите компоненты</value>
+    </data>
+    <data name="Install" xml:space="preserve">
+        <value>Установить</value>
+    </data>
 </root>
